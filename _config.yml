@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Xi Chen.jpg"
   name             : "Xi (Aurora) Chen 陈曦"
   pronouns         : # example: "She/Her"  
   bio              : "B.A. in Research and Experimental Psychology; B.So.Sci in Psychology (这个可以吗)"
