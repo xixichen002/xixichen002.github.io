@@ -8,7 +8,7 @@ date: 2024-07-03
 venue: 'International Journal of Eating Disorders'
 slidesurl: 'https://onlinelibrary.wiley.com/doi/10.1002/eat.24254'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: #'Hildebrandt, T., Boyar, A., Chen, X., Holland, K., Silverman, E., Webb, D., ... & Sysko, R. (2024). Phase‐Transitions in Disgust During Self‐Initiated Eating Among Adolescents With Anorexia Nervosa and Related Low‐Weight Eating Disorders and Matched Controls. International Journal of Eating Disorders.'
 ---
 
 *Background*
