@@ -20,7 +20,9 @@ Understanding the emotional context of feeding behavior may help identify causal
 Sixty-three adolescents with anorexia nervosa or another low-weight eating disorder (LWED) and 27 age- and sex-matched controls were recruited as part of a larger study; 45 patients and 22 controls provided data on autonomous eating and facial affect during a laboratory meal. Dynamic structural equation models quantified moment-to-moment relationships between disgust and feeding behavior.
 
 *Results*
+
 Self-initiated eating was associated with greater increases in disgust, but not fear, intensity among those with LWED relative to control participants and greater disgust intensity predicted lower likelihood of self-initiated eating.
 
 *Discussion*
+
 Phasic transitions in disgust provide moment-to-moment evidence of affective influence on self-initiated eating and lend credibility to the hypothesis that disgust contributes to food avoidance and initiation in individuals with LWED.
