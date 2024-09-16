@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-给自己写一段介绍吧
+#给自己写一段介绍吧
 
 Education
 ------
