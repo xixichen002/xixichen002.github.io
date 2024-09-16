@@ -118,7 +118,8 @@ Supervisors: Prof. Thomas Hildebrandt, Psy.D; Robyn Sysko, Ph.D.
 
 **Clinical Field Practicum [Jan 2023-May 2023]**
 
-Placement: Women’s Mental Health Program @OB/GYN, Columbia University Medical Center//
+Placement: Women’s Mental Health Program @OB/GYN, Columbia University Medical Center
+
 Course Instructor: Julia Sheehy, Ph.D. and Marjorie Silverman, Ph.D.  
 
 Placement Supervisor: Elizabeth Werner, Ph.D.	
