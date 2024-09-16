@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Welcome to Xi (Aurora) Chen's Personal Website!"
 author_profile: true
@@ -6,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-#给自己写一段介绍吧
+给自己写一段介绍吧
 
 Education
 ------
