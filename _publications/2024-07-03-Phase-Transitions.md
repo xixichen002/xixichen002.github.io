@@ -6,10 +6,13 @@ permalink: /publication/2024-07-03-Phase-Transitions
 excerpt: 'Hildebrandt, T., Boyar, A., Chen, X., Holland, K., Silverman, E., Webb, D., Wolk, S., Schulz, K., & Sysko, R.'
 date: 2024-07-03
 venue: 'International Journal of Eating Disorders'
-slidesurl: 'https://onlinelibrary.wiley.com/doi/10.1002/eat.24254'
+slidesurl: #'https://onlinelibrary.wiley.com/doi/10.1002/eat.24254'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: #'Hildebrandt, T., Boyar, A., Chen, X., Holland, K., Silverman, E., Webb, D., ... & Sysko, R. (2024). Phase‐Transitions in Disgust During Self‐Initiated Eating Among Adolescents With Anorexia Nervosa and Related Low‐Weight Eating Disorders and Matched Controls. International Journal of Eating Disorders.'
 ---
+
+
+**Abstract**
 
 *Background*
 
@@ -26,3 +29,5 @@ Self-initiated eating was associated with greater increases in disgust, but not 
 *Discussion*
 
 Phasic transitions in disgust provide moment-to-moment evidence of affective influence on self-initiated eating and lend credibility to the hypothesis that disgust contributes to food avoidance and initiation in individuals with LWED.
+
+For more information, please visit https://onlinelibrary.wiley.com/doi/10.1002/eat.24254.
