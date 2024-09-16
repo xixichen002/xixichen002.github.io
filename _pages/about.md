@@ -29,6 +29,7 @@ Education
 Research Experience
 ------
 **Researcher (Part-time) [Aug 2024 - Present]**
+
 SCI-Cream Lab, Department of Psychology, Chinese University of Hong Kong, Shenzhen, China
 
 Principal Investigator: Dr. Jinbo He, Ph.D.  
@@ -41,6 +42,7 @@ Principal Investigator: Dr. Jinbo He, Ph.D.
 - Associations of Thwarted belongingness, perceived burdensomeness and Eating Disorder Psychopathology in Chinese Gender-diverse Adults 
 
 **Clinical Research Coordinator (Full-time) [June 2023- July 2024]**
+
 Hildebrandt Lab, Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, USA
 
 Principal Investigator: Prof. Thomas Hildebrandt, Psy.D.
@@ -64,6 +66,7 @@ Principal Investigator: Prof. Thomas Hildebrandt, Psy.D.
 -	Lead intervention sessions and follow-up assessments using questionnaires, behavioral and meal tasks to evaluate the efficacy of the intervention.
 
 **Undergraduate Research Assistant [Jan 2023 – May 2023]**
+
 Department of Psychology, Barnard College, Columbia University
 
 Supervisor: Michael Wheaton, Ph.D. 
@@ -74,6 +77,7 @@ Supervisor: Michael Wheaton, Ph.D.
 -	Preparing a manuscript for submission. 
 
 **Psych/Neuro Senior Thesis Advanced Research Program (STAR) [Jan 2022 – May 2023]**
+
 Department of Psychology, Columbia University
 
 Course Instructor: Prof. Lila Davachi, Ph.D. 
@@ -101,5 +105,26 @@ Supervisor: Nancy Yu, Ph.D.
 *Project: Enhancing Resilience in Cross-Boundary Families: A Parent-Child Parallel Group Intervention*
 -	Contributed to the design of infographics and the development of measurement tools for the intervention manual.
 -	Assisted in developing questionnaires and conducting structured interviews to assess the efficacy of the intervention.
+
+Clinical Experience     
+------
+**Clinical Research Coordinator [June 2023 – July 2024]**	
+Eating and Weight Disorder Program, Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, USA
+
+Supervisors: Prof. Thomas Hildebrandt, Psy.D; Robyn Sysko, Ph.D.	
+
+-	Conduct clinical interviews to screen and diagnose study participants using the Structured Clinical Interview, Eating Disorder Assessment for DSM-5, and the Columbia Suicide Severity Rating Scale, among other tools.
+-	Attend weekly didactics to learn and practice Family-Based Therapy and Cognitive Behavioral Therapy-Exposure skills for various eating disorders.
+
+**Clinical Field Practicum [Jan 2023-May 2023]**
+
+Placement: Women’s Mental Health Program @OB/GYN, Columbia University Medical Center//
+Course Instructor: Julia Sheehy, Ph.D. and Marjorie Silverman, Ph.D.  
+
+Placement Supervisor: Elizabeth Werner, Ph.D.	
+-	Participated in weekly seminars to study the psychodynamic approaches to psychotherapy and share experiences from the placement.
+-	Attended monthly clinical meetings with mental health professionals to discuss case management.
+-	Reviewed and studied audio recordings of past therapy sessions aimed at preventing postpartum depression in high-risk pregnant women, taking detailed notes on referrals.
+-	Organize and update patients’ clinical records for accuracy and confidentiality.
 
 
