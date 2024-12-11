@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xi Aurora Chen's Personal Website"
+title                    : "Xi Chelsey Chen's Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Xi Chen.jpg"
-  name             : "Xi Aurora Chen 陈曦"
+  name             : "Xi Chelsey Chen 陈曦"
   pronouns         : "She/Her/Hers"  
   bio              : "B.A. in Research and Experimental Psychology; B.So.Sci in Psychology"
   location         : #"Earth"
