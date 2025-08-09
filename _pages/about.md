@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to Xi Chelsey Chen's Personal Website!"
+title: "Welcome to Xi Chen Aurelia's Personal Website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi there! I’m Chelsey Xi, a dedicated researcher deeply immersed in the study of eating disorders, perinatal mental health, and broader issues in women's mental health. I graduated from Columbia University with a BA in Psychology in 2023, where I focused my research on the perinatal mental health of ethnic minorities. After graduation, I completed a year of post-bac training at the Mount Sinai Eating and Weight Disorders Program, exploring the cognitive and neurobiological mechanisms underlying various eating disorders and learning diverse treatment approaches.
+Hi there! I’m Aurelia, a dedicated researcher deeply immersed in the study of eating disorders, perinatal mental health, and broader issues in women's mental health. I graduated from Columbia University with a BA in Psychology in 2023, where I focused my research on the perinatal mental health of ethnic minorities. After graduation, I completed a year of post-bac training at the Mount Sinai Eating and Weight Disorders Program, exploring the cognitive and neurobiological mechanisms underlying various eating disorders and learning diverse treatment approaches.
 
 Recently, I have expanded my research to include societal and environmental factors related to ED symptoms and risks, such as bullying, teasing, and socioeconomic disadvantages. I am also a passionate advocate for designing and delivering low-cost, accessible interventions for ED prevention and treatment, and broadly, for improving women’s mental health across different life stages. Currently, I am engaged in designing research-oriented online brief interventions for body image disturbances and a public health-oriented AI-based app for binge eating self-help.
 
@@ -15,6 +15,11 @@ Outside the lab, I cherish the time spent with family and friends, enjoying outd
 
 Education
 ------
+*The University of Hong Kong, Hong Kong SAR, Sep. 2025 - May 2029 (Anticipated)*
+- Supervisor: Wai Sze Chan, Ph.D. 
+- Research areas: Associations between sleep and eating disorders, circadian rhythms and eating, innovative interventions for eating disorders.
+
+
 *Columbia University in the City of New York, USA, Sep. 2021 - May 2023*
 - Bachelor of Arts, in Research and Experimental Psychology
 - Magna cum laude, Honors in Psychology
