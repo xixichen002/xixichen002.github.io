@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xi Chelsey Chen's Personal Website"
+title                    : "Xi Chen Aurelia's Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,17 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Xi Chen.jpg"
-  name             : "Xi Chelsey Chen 陈曦"
+  name             : "Xi Chen Aurelia 陈曦"
   pronouns         : "She/Her/Hers"  
-  bio              : "B.A. in Research and Experimental Psychology; B.So.Sci in Psychology"
+  bio              : "Ph.D. Student in Clinical Psychological Science; in B.A. in Research and Experimental Psychology; B.So.Sci in Psychology"
   location         : #"Earth"
-  employer         : #"Columbia University (这个可以吗)"
+  employer         : "The University of Hong Kong"
   uri              : # URL
   email            : "c.xi@columbia.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=W8HUVrkAAAAJ&hl=en&oi=sra"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-1034-3654"
   semantic         : # URL
