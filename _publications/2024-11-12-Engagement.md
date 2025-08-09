@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-Just
 excerpt: 'He, J*., Chen, X*., Cui, T., Xiao, Y., Wang, Y., Yi, S., Ganson, K., & Nagata, J. (2024)'
-date: 2024-12-31
+date: 2024-11-12
 venue: 'International Journal of Eating Disorders.'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
