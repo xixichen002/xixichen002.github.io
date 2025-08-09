@@ -1,7 +1,7 @@
 ---
 title: "Tripartite Influence and Social Comparison Theories for Explaining Eating Disorder Psychopathology in Chinese Boys and Girls: A Longitudinal Network Perspective."
 collection: publications
-category: inRevision
+category: manuscripts
 permalink: /publication/2025-08-09-Tripartite
 excerpt: 'He, J., Wang, Z., Chen, X., Barnhart, W., Pan, Z., Cui, S., Yim, S., Zhang, J., Chen, G., Ji, F. (2025).'
 date: 2025-08-09
